@@ -1,6 +1,6 @@
          c,_.--.,y
             7 a.a(
-           (   ,_Y)        just a smart looking shrek
+           (   ,_Y)        console password generator with optional cyrilical characters
            :  '---;
        ___.'\.  - (
      .'"""S,._'--'_2..,_
